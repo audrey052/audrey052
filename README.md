@@ -1,4 +1,4 @@
-# Hi, I'm Audrey Theodora 👋
+# Hi, I'm Audrey!
 
 ### Data Science Student | AI & Machine Learning Enthusiast
 
