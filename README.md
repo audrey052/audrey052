@@ -9,13 +9,17 @@ I enjoy turning data and machine learning concepts into practical applications, 
 Currently, I'm continuously learning and expanding my knowledge in **AI/ML engineering, LLM applications, and production-oriented AI systems**.
 
 ---
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=audrey052&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audrey052&layout=compact&theme=transparent&hide_border=true" height="180"/>
+  <a href="https://github.com/audrey052">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audrey052&layout=compact&theme=radical" height="180"/>
+  </a>
+  <a href="https://github.com/audrey052">
+    <img src="https://streak-stats.demolab.com/?user=audrey052&theme=radical" height="180"/>
+  </a>
 </p>
----
+
 
 ## 🛠️ Tech Stack
 
